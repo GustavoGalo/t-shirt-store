@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "img": "https://cdn.vnda.com.br/cottonproject/2021/03/18/13_3_3_320_CPINVERNO21_0008_COTTONSTILLx_0030_COTTONSTILLCAPTUREONE1426.jpg?v=1616086669",
+    "name": "Camisa #01",
+    "price": 100.0,
+    "sizes": [
+      "P"
+    ],
+    "colors": [
+      "R"
+    ]
+  },
+  {
+    "id": "2",
+    "img": "https://cdn.vnda.com.br/cottonproject/2021/03/18/13_3_3_320_CPINVERNO21_0008_COTTONSTILLx_0030_COTTONSTILLCAPTUREONE1426.jpg?v=1616086669",
+    "name": "Camisa #02",
+    "price": 100.0,
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "G"
+    ]
+  },
+  {
+    "id": "3",
+    "img": "https://cdn.vnda.com.br/cottonproject/2021/03/18/13_3_3_320_CPINVERNO21_0008_COTTONSTILLx_0030_COTTONSTILLCAPTUREONE1426.jpg?v=1616086669",
+    "name": "Camisa #03",
+    "price": 100.0,
+    "sizes": [
+      "G"
+    ],
+    "colors": [
+      "B"
+    ]
+  },
+  {
+    "id": "4",
+    "img": "https://cdn.vnda.com.br/cottonproject/2021/03/18/13_3_3_320_CPINVERNO21_0008_COTTONSTILLx_0030_COTTONSTILLCAPTUREONE1426.jpg?v=1616086669",
+    "name": "Camisa #04",
+    "price": 100.0,
+    "sizes": [
+      "P",
+      "M",
+      "G"
+    ],
+    "colors": [
+      "B"
+    ]
+  }
+]
